@@ -18,7 +18,7 @@ submit.addEventListener("click", () => {
         notValid.style.visibility = "hidden";
       }
       cont.style.display = "none";
-      succCont.style.display = "block";
+      succCont.style.display = "flex";
       umail.innerHTML = mail;
     } else {
       email.classList.add("notValid");
