@@ -145,7 +145,7 @@ button:hover {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   #desk {
     display: none;
   }
