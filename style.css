@@ -175,6 +175,7 @@ button:hover {
     align-items: center;
     max-height: 100vh;
     padding: 0;
+    box-shadow: none;
   }
   .body-cont {
     padding: 20px;
